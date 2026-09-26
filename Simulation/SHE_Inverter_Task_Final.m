@@ -1,5 +1,5 @@
 
-function SHE_Inverter_Task_Final
+function SHE_Inverter
      %% 0. Shared Data Containers
     sim_t = []; 
     sim_Vao = []; sim_Van = []; sim_Ia = []; sim_Vab = [];
