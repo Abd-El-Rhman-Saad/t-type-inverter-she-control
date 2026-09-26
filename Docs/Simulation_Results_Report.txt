@@ -1,0 +1,17 @@
+=== SIMULATION RESULTS ===
+Angles: 24.42, 38.21, 48.65 deg
+Modulation Index: 1.0000
+
+--- POWER METRICS ---
+Real Power (P):   16.978 kW
+Reactive (Q):     18.814 kVAR
+Apparent (S):     25.342 kVA
+Power Factor:     0.6699
+Est. Efficiency:  97.70 %
+
+--- QUALITY METRICS ---
+V_line RMS:       515.2 V
+THD Ia:           2.9797 %
+THD Ib:           2.9730 %
+THD Ic:           2.9708 % (PASS)
+Voltage THD:      27.5277 %
